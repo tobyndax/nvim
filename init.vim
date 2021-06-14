@@ -82,3 +82,6 @@ nnoremap <C-g> :Rg<CR>
 nnoremap <C-p> :Files<cr>
 nnoremap <C-b> :Buffers<cr>
 nnoremap <C-l> :BLines<cr>
+
+set list
+set listchar+=trail:+
